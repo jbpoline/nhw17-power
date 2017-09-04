@@ -1,2 +1,11 @@
-# NHW-2017 Power analysis tutorial
-A notebook on statistical power for the NHW 2017 
+# NHW-2017: Common but not so simple statistical issues 
+## p-values 
+## Power analysis tutorial
+## Positive Predictive values
+## Confidence Intervals
+## Inflated effect sizes
+
+A notebook on statistical aspects for NHW 2017 
+
+
+
